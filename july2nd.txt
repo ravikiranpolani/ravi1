@@ -1,0 +1,108 @@
+  1  cd
+    2  pwd
+    3  ls
+    4  ls -l
+    5  ls -al
+    6  ls -lt
+    7  cd
+    8  mkdir
+    9  ps
+   10  touch 15.java
+   11  cat 15.java
+   12  cat >15.java
+   13  car 15.java
+   14  cat 15.java
+   15  more 15.java
+   16  ls
+   17  ls -la
+   18  ps
+   19  top
+   20  cat  50.java
+   21  touch 50.java
+   22  cat >50.java
+   23  history
+   24  exit
+   25  ls
+   26  ls -la
+   27  history
+   28  cd..
+   29  cd../
+   30  pwd
+   31  ls
+   32  rm 50.java
+   33  ls
+   34  fg
+   35  cal
+   36  uptime
+   37  w
+   38  whoami
+   39  finger user
+   40  df
+   41  du
+   42  free
+   43  whereis app
+   44  which app
+   45  ping host
+   46  dig domain
+   47  finger user
+   48  uname -a
+   49  ls
+   50  ls -la
+   51  ls
+   52  head 15.java
+   53  history
+   54  ls
+   55  which ls
+   56  /bin/ls
+   57  env
+   58  ls -a
+   59  ls -l
+   60  ls -la
+   61  ls
+   62  od
+   63  time
+   64  touch 10.java
+   65  cat >10.java
+   66  cat 10.java
+   67  who am i
+   68  zmore
+   69  cd
+   70  w
+   71  wc
+   72  type -a echo
+   73  whoami
+   74  history 10
+   75  echo $HISTSIZE
+   76  echo $HISTFILE
+   77  Ctrl -r
+   78  $HISTFILESIZE
+   79  type ls
+   80  time
+   81  date
+   82  history
+   83  cd
+   84  pwd
+   85  touch 1.java
+   86  touch 2.java
+   87  cat >1.java
+   88  cat 1.java
+   89  vi 1.java
+   90  /string
+   91  j
+   92  yyp
+   93  vi file 456
+   94  vi file 100
+   95  rm file 100
+   96  rm file 456
+   97  ls
+   98  ls -l
+   99  cat file456
+  100  cat file 456
+  101  vi file 456
+  102  cat file 456
+  103  vi file 456
+  104  vi flie 456
+  105  vi file100
+  106  history
+  107  vim pancakes.txt
+  108  history
